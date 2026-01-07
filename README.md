@@ -18,5 +18,7 @@ I am a cybersecurity beginner with a strong interest in information security. I 
 
 ## Current Focus
 - Building hands-on cybersecurity skills
+- Following a structured TryHackMe hands-on learning plan
 - Learning security tools and best practices
 - Preparing for a cybersecurity internship
+  
